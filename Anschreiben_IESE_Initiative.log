@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.22)  11 JUL 2024 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.22)  11 JUL 2024 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Anschreiben/Anschreiben_IESE_Eigen.tex
-(d:/Anschreiben/Anschreiben_IESE_Eigen.tex
+**d:/Anschreiben/Anschreiben_IESE_Initiative.tex
+(d:/Anschreiben/Anschreiben_IESE_Initiative.tex
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
 (C:\Users\Skrixxel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -615,8 +615,8 @@ File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count337
 \l__pdf_internal_box=\box82
-) (Anschreiben_IESE_Eigen.aux)
-\openout1 = `Anschreiben_IESE_Eigen.aux'.
+) (Anschreiben_IESE_Initiative.aux)
+\openout1 = `Anschreiben_IESE_Initiative.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -692,9 +692,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count344
 Package hyperref Info: Link coloring OFF on input line 16.
- (Anschreiben_IESE_Eigen.out) (Anschreiben_IESE_Eigen.out)
+ (Anschreiben_IESE_Initiative.out) (Anschreiben_IESE_Initiative.out)
 \@outlinefile=\write4
-\openout4 = `Anschreiben_IESE_Eigen.out'.
+\openout4 = `Anschreiben_IESE_Initiative.out'.
 
 
 Overfull \hbox (2.22168pt too wide) in paragraph at lines 17--17
@@ -710,24 +710,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
 [1
 
-{C:/Users/Skrixxel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Anschreiben_IESE_Eigen.aux)
+{C:/Users/Skrixxel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Anschreiben_IESE_Initiative.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
-Package rerunfilecheck Info: File `Anschreiben_IESE_Eigen.out' has not changed.
+Package rerunfilecheck Info: File `Anschreiben_IESE_Initiative.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  29586 strings out of 473920
- 592757 string characters out of 5725558
+ 592857 string characters out of 5725558
  1937908 words of memory out of 5000000
  51963 multiletter control sequences out of 15000+600000
  562401 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,5n,121p,496b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,5n,121p,501b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Skrixxel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1000.pk> <C:\Users\Skrixxel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\Skrixxel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk>
-Output written on Anschreiben_IESE_Eigen.pdf (1 page, 51435 bytes).
+Output written on Anschreiben_IESE_Initiative.pdf (1 page, 51435 bytes).
 PDF statistics:
  175 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
